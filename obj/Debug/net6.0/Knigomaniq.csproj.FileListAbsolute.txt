@@ -1,0 +1,9 @@
+C:\Users\STUDENTS-STEM-4\Desktop\12d_V\Knigomaniq\obj\Debug\net6.0\Knigomaniq.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-STEM-4\Desktop\12d_V\Knigomaniq\obj\Debug\net6.0\Knigomaniq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENTS-STEM-4\Desktop\12d_V\Knigomaniq\obj\Debug\net6.0\Knigomaniq.AssemblyInfoInputs.cache
+C:\Users\STUDENTS-STEM-4\Desktop\12d_V\Knigomaniq\obj\Debug\net6.0\Knigomaniq.AssemblyInfo.cs
+C:\Users\STUDENTS-STEM-4\Desktop\12d_V\Knigomaniq\obj\Debug\net6.0\Knigomaniq.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-STEM-4\Desktop\12d_V\Knigomaniq\obj\Debug\net6.0\Knigomaniq.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\STUDENTS-STEM-4\Desktop\12d_V\Knigomaniq\obj\Debug\net6.0\Knigomaniq.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\STUDENTS-STEM-4\Desktop\12d_V\Knigomaniq\obj\Debug\net6.0\Knigomaniq.RazorAssemblyInfo.cache
+C:\Users\STUDENTS-STEM-4\Desktop\12d_V\Knigomaniq\obj\Debug\net6.0\Knigomaniq.RazorAssemblyInfo.cs
