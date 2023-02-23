@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Knigomaniq.props" />
+</Project>

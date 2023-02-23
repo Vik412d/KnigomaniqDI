@@ -6,7 +6,7 @@ namespace Knigomaniq.Models
     {
         public string FirstName { get; set; }
         public string LastName { get; set; }
-        public int RegisterOn { get; set; }
+      
         ICollection<Shopping> Shoppings { get; set; }
     }
 }
