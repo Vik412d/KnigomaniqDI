@@ -1,5 +1,6 @@
 using Knigomaniq.Data;
 using Knigomaniq.Models;
+using Knigomaniq.Servises;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
@@ -17,7 +18,8 @@ namespace Knigomaniq
                 options.UseSqlServer(connectionString));
             builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
-            builder.Services.AddDefaultIdentity<User>(options => options.SignIn.RequireConfirmedAccount = true)
+            builder.Services.AddDefaultIdentity<User>(options => options.SignIn.RequireConfirmedAccount = false)
+                .AddRoles<IdentityRole>()
                 .AddEntityFrameworkStores<ApplicationDbContext>();
             builder.Services.AddControllersWithViews();
 
@@ -38,6 +40,7 @@ namespace Knigomaniq
                 // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
                 app.UseHsts();
             }
+            app.PrepareDataBase().Wait();
 
             app.UseHttpsRedirection();
             app.UseStaticFiles();

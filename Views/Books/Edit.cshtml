@@ -1,0 +1,84 @@
+﻿@model Knigomaniq.Models.Book
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Book</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Author" class="control-label"></label>
+                <input asp-for="Author" class="form-control" />
+                <span asp-validation-for="Author" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PrintHouseId" class="control-label"></label>
+                <select asp-for="PrintHouseId" class="form-control" asp-items="ViewBag.PrintHouseId"></select>
+                <span asp-validation-for="PrintHouseId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Cover" class="control-label"></label>
+                <input asp-for="Cover" class="form-control" />
+                <span asp-validation-for="Cover" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Language" class="control-label"></label>
+                <input asp-for="Language" class="form-control" />
+                <span asp-validation-for="Language" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CategoryId" class="control-label"></label>
+                <select asp-for="CategoryId" class="form-control" asp-items="ViewBag.CategoryId"></select>
+                <span asp-validation-for="CategoryId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Stoke" class="control-label"></label>
+                <input asp-for="Stoke" class="form-control" />
+                <span asp-validation-for="Stoke" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ShortExplenation" class="control-label"></label>
+                <input asp-for="ShortExplenation" class="form-control" />
+                <span asp-validation-for="ShortExplenation" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Picture" class="control-label"></label>
+                <input asp-for="Picture" class="form-control" />
+                <span asp-validation-for="Picture" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SinglePrice" class="control-label"></label>
+                <input asp-for="SinglePrice" class="form-control" />
+                <span asp-validation-for="SinglePrice" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DateOFBookInrolled" class="control-label"></label>
+                <input asp-for="DateOFBookInrolled" class="form-control" />
+                <span asp-validation-for="DateOFBookInrolled" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

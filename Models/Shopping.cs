@@ -2,6 +2,7 @@
 {
     public class Shopping
     {
+        public int Id { get; set; }
         public string UserId { get; set; }
         public User Users { get; set; }
 

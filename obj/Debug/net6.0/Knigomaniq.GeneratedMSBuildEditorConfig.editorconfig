@@ -9,45 +9,145 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Knigomaniq
 build_property.RootNamespace = Knigomaniq
-build_property.ProjectDir = C:\Users\tbele\Downloads\DI 2023\Knigomaniq\Knigomaniq\
+build_property.ProjectDir = C:\Users\Viki\source\repos\VikDI\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\tbele\Downloads\DI 2023\Knigomaniq\Knigomaniq
+build_property.MSBuildProjectDirectory = C:\Users\Viki\source\repos\VikDI
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/tbele/Downloads/DI 2023/Knigomaniq/Knigomaniq/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/Users/Viki/source/repos/VikDI/Areas/Identity/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Viki/source/repos/VikDI/Areas/Identity/Pages/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Viki/source/repos/VikDI/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Viki/source/repos/VikDI/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Viki/source/repos/VikDI/Areas/Identity/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Viki/source/repos/VikDI/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tbele/Downloads/DI 2023/Knigomaniq/Knigomaniq/Views/Home/Index.cshtml]
+[C:/Users/Viki/source/repos/VikDI/Views/Books/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Viki/source/repos/VikDI/Views/Books/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Viki/source/repos/VikDI/Views/Books/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Viki/source/repos/VikDI/Views/Books/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Viki/source/repos/VikDI/Views/Books/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Viki/source/repos/VikDI/Views/Categories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Viki/source/repos/VikDI/Views/Categories/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Viki/source/repos/VikDI/Views/Categories/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Viki/source/repos/VikDI/Views/Categories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Viki/source/repos/VikDI/Views/Categories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Viki/source/repos/VikDI/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tbele/Downloads/DI 2023/Knigomaniq/Knigomaniq/Views/Home/Privacy.cshtml]
+[C:/Users/Viki/source/repos/VikDI/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tbele/Downloads/DI 2023/Knigomaniq/Knigomaniq/Views/Shared/Error.cshtml]
+[C:/Users/Viki/source/repos/VikDI/Views/PrintHouses/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJpbnRIb3VzZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Viki/source/repos/VikDI/Views/PrintHouses/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJpbnRIb3VzZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Viki/source/repos/VikDI/Views/PrintHouses/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJpbnRIb3VzZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Viki/source/repos/VikDI/Views/PrintHouses/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJpbnRIb3VzZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Viki/source/repos/VikDI/Views/PrintHouses/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJpbnRIb3VzZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Viki/source/repos/VikDI/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tbele/Downloads/DI 2023/Knigomaniq/Knigomaniq/Views/Shared/_LoginPartial.cshtml]
+[C:/Users/Viki/source/repos/VikDI/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tbele/Downloads/DI 2023/Knigomaniq/Knigomaniq/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Viki/source/repos/VikDI/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tbele/Downloads/DI 2023/Knigomaniq/Knigomaniq/Views/_ViewImports.cshtml]
+[C:/Users/Viki/source/repos/VikDI/Views/Shoppings/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcHBpbmdzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Viki/source/repos/VikDI/Views/Shoppings/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcHBpbmdzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Viki/source/repos/VikDI/Views/Shoppings/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcHBpbmdzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Viki/source/repos/VikDI/Views/Shoppings/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcHBpbmdzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Viki/source/repos/VikDI/Views/Shoppings/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcHBpbmdzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Viki/source/repos/VikDI/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tbele/Downloads/DI 2023/Knigomaniq/Knigomaniq/Views/_ViewStart.cshtml]
+[C:/Users/Viki/source/repos/VikDI/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tbele/Downloads/DI 2023/Knigomaniq/Knigomaniq/Views/Shared/_Layout.cshtml]
+[C:/Users/Viki/source/repos/VikDI/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-ax8g5eojti
